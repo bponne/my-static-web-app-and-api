@@ -4,5 +4,7 @@
   "azureFunctions.projectLanguage": "JavaScript",
   "azureFunctions.projectRuntime": "~3",
   "debug.internalConsoleOptions": "neverOpen",
-  "azureFunctions.preDeployTask": "npm prune"
+  "azureFunctions.preDeployTask": "npm prune",
+  "git.enabled": true,
+  "git.path": "C:\\Program Files\\Git\\bin\\git.exe"
 }
